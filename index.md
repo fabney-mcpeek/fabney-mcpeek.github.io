@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fiona's great title
+title: Tab title
 ---
 
 ## Welcome to GitHub Pages
